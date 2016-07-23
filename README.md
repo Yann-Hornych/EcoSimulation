@@ -1,6 +1,6 @@
 # EcoSimulation
 Here is the code I used for my simulation on money emergence.
-it is written in Python 3.5
+it is written in Python 3.5.
 The more important file is cython_code where all the simulation is implemented and especially the part I entirely coded:
 update_estimations.
 The other files are made to make the code running.
